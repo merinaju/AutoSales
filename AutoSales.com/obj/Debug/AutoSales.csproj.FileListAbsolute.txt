@@ -7,4 +7,3 @@ C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\A
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\AutoSales.pdb
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.dll
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.pdb
-C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.csprojResolveAssemblyReference.cache

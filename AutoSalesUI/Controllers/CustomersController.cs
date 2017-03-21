@@ -15,6 +15,7 @@ namespace AutoSalesUI.Controllers
         private InventoryModel db = new InventoryModel();
 
         // GET: Customers
+        [Authorize]
         public ActionResult Index()
         {
             return View(db.Customers.ToList());
