@@ -5,18 +5,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutoSales.com
+namespace AutoSales
 {
     public class Customer
     {
-        #region Variables
-        private static int lastCustomerNumber=0;
-        #endregion
-        public enum customerType { Admin, Guest, Private, Dealer  };
+      
+        public enum customerType { Admin, Private, Dealer  };
         #region properties
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string emailaddress { get; set; }
+        public string Emailaddress { get; set; }
         public string streetAddress { get; set; }
         public string State { get; set; }
         public int zip { get; set; }

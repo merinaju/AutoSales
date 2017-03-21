@@ -1,4 +1,4 @@
-namespace AutoSales.com
+namespace AutoSales
 {
     using System;
     using System.Data.Entity;
@@ -8,7 +8,7 @@ namespace AutoSales.com
     {
         // Your context has been configured to use a 'InventoryModel' connection string from your application's 
         // configuration file (App.config or Web.config). By default, this connection string targets the 
-        // 'AutoSales.com.InventoryModel' database on your LocalDb instance. 
+        // 'AutoSales.InventoryModel' database on your LocalDb instance. 
         // 
         // If you wish to target a different database and/or database provider, modify the 'InventoryModel' 
         // connection string in the application configuration file.

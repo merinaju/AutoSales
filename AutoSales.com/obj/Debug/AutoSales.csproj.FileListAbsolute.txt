@@ -1,0 +1,10 @@
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\EntityFramework.dll
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\EntityFramework.xml
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\AutoSales.dll.config
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\AutoSales.dll
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Debug\AutoSales.pdb
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.dll
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.pdb
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Debug\AutoSales.csprojResolveAssemblyReference.cache

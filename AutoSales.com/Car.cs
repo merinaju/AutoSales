@@ -5,13 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutoSales.com
+namespace AutoSales
 {
    public class Car
     {
-        #region Variables
-        private static int lastCarID=0;
-        #endregion
+      
         #region Properties
         public string TypeOfCar { get; set; }
         public string Model { get; set; }

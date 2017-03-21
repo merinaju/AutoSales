@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSales.com", "AutoSales.com\AutoSales.com.csproj", "{52B58103-4F31-40FB-BA51-45703A2FBA6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSales", "AutoSales.com\AutoSales.csproj", "{52B58103-4F31-40FB-BA51-45703A2FBA6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSalesUI", "AutoSalesUI\AutoSalesUI.csproj", "{04CA1DE4-D452-4803-9181-11DAE25E0102}"
 EndProject
