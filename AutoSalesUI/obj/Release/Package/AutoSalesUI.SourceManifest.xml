@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbFullSql path="C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSalesUI\obj\Release\AutoScripts\InventoryModel-Deployment_SchemaOnly.sql" Transacted="True" />
+  <IisApp path="C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSalesUI\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSalesUI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSalesUI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
