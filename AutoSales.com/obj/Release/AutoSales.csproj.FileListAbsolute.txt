@@ -5,6 +5,6 @@ C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Release
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Release\EntityFramework.SqlServer.dll
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Release\EntityFramework.xml
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\bin\Release\EntityFramework.SqlServer.xml
-C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Release\AutoSales.csprojResolveAssemblyReference.cache
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Release\AutoSales.dll
 C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Release\AutoSales.pdb
+C:\Users\merin\OneDrive\Documents\github\AutoSales.com\AutoSales.com\obj\Release\AutoSales.csprojResolveAssemblyReference.cache
